@@ -404,7 +404,7 @@ const styles = StyleSheet.create({
         alignSelf:'center'
     },
     footer: {
-        flex: 26,
+        flex: 1,
         backgroundColor: '#fff',
         padding : 20,
         // borderTopLeftRadius: 30,
